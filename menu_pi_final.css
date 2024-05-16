@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url("/menu_html_css/User_OpMo.jpg");
+  background: url("User_OpMo.jpg");
   background-attachment: fixed;
   background-size: cover ;
   background-repeat: no-repeat;
